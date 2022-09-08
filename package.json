@@ -1,0 +1,19 @@
+{
+  "name": "cli-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^9.4.0",
+    "dotenv": "^16.0.2",
+    "node-notifier": "^10.0.1",
+    "ora": "5.1"
+  }
+}
